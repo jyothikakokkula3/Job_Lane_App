@@ -58,12 +58,15 @@ cd job-portal
 
 For Backend
 
-cd server
+cd backend
+
 npm install
+
 
 For Frontend
 
-cd client
+cd frontend
+
 npm install
 
 3️⃣ Setup Environment Variables (.env)
@@ -79,12 +82,16 @@ JWT_SECRET=your_secret_key
 Start Backend
 
 cd backend
+
 npm run dev
+
 
 Start Frontend 
 
 cd frontend
+
 npm start
 
 🤝 Contributing
+
 If you'd like to contribute, please fork the repository and create a pull request.
