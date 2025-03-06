@@ -35,6 +35,7 @@ Deployment: Vercel (Frontend), Render/Railway (Backend), MongoDB Atlas
  ┗ 📜 .gitignore  
 
 💻 Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/jyothikakokkula3/Job_Lane_App.git
 cd job-portal
