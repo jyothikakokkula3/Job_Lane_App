@@ -87,5 +87,4 @@ cd frontend
 npm start
 
 🤝 Contributing
-
 If you'd like to contribute, please fork the repository and create a pull request.
