@@ -1,7 +1,9 @@
 📝 Job Portal Management System
+
 A full-stack web application that allows users to search, apply for jobs, and manage applications efficiently.
 
 🚀 Features
+
 ✅ User Authentication – Secure login & registration (JWT-based).
 ✅ Job Search & Filtering – Search jobs based on title, location, and category.
 ✅ Application Tracking – Users can apply for jobs and track their status.
