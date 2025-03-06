@@ -1,3 +1,4 @@
+![Screenshot 2025-03-06 105510](https://github.com/user-attachments/assets/64f3311e-0125-428c-985c-82d88100113a)
 📝 Job Portal Management System
 
 A full-stack web application that allows users to search, apply for jobs, and manage applications efficiently.
